@@ -1,0 +1,8 @@
+{
+"email": "your email login",
+"password": "password",
+"room": "room slug",
+"botid": 12345,
+"youtube_api_key": "your youtube api key",
+"discord": "your bot's discord login key"
+}
